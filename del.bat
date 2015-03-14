@@ -1,0 +1,1 @@
+del bin\anotelist.dat
